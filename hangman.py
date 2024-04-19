@@ -27,3 +27,5 @@ def hangman(word):
         print('You lose! The word was {}'.format(word))
 
 hangman("cat")
+
+print("MAKING CHANGES TO TEST GIT DIFF")
